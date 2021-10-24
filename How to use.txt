@@ -1,0 +1,3 @@
+$ pip install uncompyle6
+
+$ uncompyle6 IntruserNuker.pyc
